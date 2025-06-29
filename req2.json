@@ -1,0 +1,73 @@
+{
+    "searchbus": {
+        "from": "17@1287",
+        "to": "11@961",
+        "depart": "01/07/2025",
+        "boarding_at": "40",
+        "drop_off": "20"
+    },
+    "ticket": {
+        "title": {
+            "7U": "Mr"
+        },
+        "passenger_age": {},
+        "passenger_first_name": {},
+        "passenger_last_name": {},
+        "passenger_name": {
+            "7U": "dwdwdsd"
+        },
+        "primary": "7U",
+        "email": "fwefwefwefwe@gmail.com",
+        "alternate_email": null,
+        "phone_number": "8379343321",
+        "other_number": null,
+        "referral_code": null,
+        "address": null,
+        "selected_seats": "7U",
+        "reservation_id": 44402,
+        "origin": "17@1287",
+        "destination": "11@961",
+        "net_amount": 630,
+        "snacks_amount": 0,
+        "isd_code": null,
+        "send_whatsapp_sms": "on"
+    },
+    "gst": {
+        "number": null,
+        "company_name": null,
+        "address": null
+    },
+    "pay_gay_type": 32,
+    "pg_type": 32,
+    "onward_fare_amount": 600,
+    "tot_onward_fare_amount": 600,
+    "total_fare": 600,
+    "triptype": "oneway",
+    "reserved-seat-count": 1,
+    "offer-type": null,
+    "is_round_trip": "false",
+    "reserved-seat-count-r": 0,
+    "res-selected-seats-field-connecting-count": 0,
+    "customer_city_key": "SANGLI",
+    "customer_state_key": "Maharashtra",
+    "customer_pin_code": "416415",
+    "customer_nationality_key": null,
+    "bima_seat_wise_trans_charges": [
+        "",
+        ""
+    ],
+    "fares_arr": [
+        600
+    ],
+    "ticket_snacks": [],
+    "return_ticket_snacks": [],
+    "domain_url": "https%3A%2F%2Fwww.ashokatravels.net%2F",
+    "pay_mode": "12",
+    "wallet_sel": null,
+    "ts_pay_type": 6,
+    "seat_wise_fares": [
+        600
+    ],
+    "isCancelProtectCharge": "false",
+    "query": "q5"
+}

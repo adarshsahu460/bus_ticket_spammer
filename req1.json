@@ -1,0 +1,70 @@
+{
+    "searchbus": {
+        "from": "29",
+        "to": "11",
+        "depart": "01/07/2025",
+        "boarding_at": "1876",
+        "drop_off": "1422"
+    },
+    "ticket": {
+        "title": {
+            "U7": "Mr"
+        },
+        "passenger_age": {},
+        "passenger_first_name": {},
+        "passenger_last_name": {},
+        "passenger_name": {
+            "U7": "fdvfdvdfv"
+        },
+        "primary": "U7",
+        "email": "vdvdfvd@gmail.com",
+        "alternate_email": null,
+        "phone_number": "9848834839",
+        "other_number": null,
+        "referral_code": null,
+        "address": null,
+        "selected_seats": "U7",
+        "reservation_id": 174234,
+        "origin": "29",
+        "destination": "11",
+        "net_amount": 799.05,
+        "snacks_amount": 0,
+        "isd_code": null,
+        "send_whatsapp_sms": "on"
+    },
+    "gst": {
+        "number": null,
+        "company_name": null,
+        "address": null
+    },
+    "pay_gay_type": 49,
+    "pg_type": 49,
+    "onward_fare_amount": 761,
+    "tot_onward_fare_amount": 761,
+    "total_fare": 761,
+    "triptype": "oneway",
+    "reserved-seat-count": 1,
+    "offer-type": null,
+    "is_round_trip": "false",
+    "reserved-seat-count-r": 0,
+    "res-selected-seats-field-connecting-count": 0,
+    "customer_city_key": "ubuhbjcds",
+    "customer_state_key": "Maharashtra",
+    "customer_pin_code": "442114",
+    "customer_nationality_key": null,
+    "bima_seat_wise_trans_charges": [
+        "",
+        ""
+    ],
+    "fares_arr": [
+        761
+    ],
+    "ticket_snacks": [],
+    "return_ticket_snacks": [],
+    "domain_url": "https%3A%2F%2Fwww.konduskarbus.in%2F",
+    "seat_wise_fares": [
+        761
+    ],
+    "isCancelProtectCharge": "false",
+    "query": "q5"
+}
