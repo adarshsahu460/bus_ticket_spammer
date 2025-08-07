@@ -5,16 +5,11 @@ const fs = require('fs');
 const axios = require('axios');
 
 const req1 = JSON.parse(fs.readFileSync('./req1.json', 'utf8'));
-const req2 = JSON.parse(fs.readFileSync('./req2.json', 'utf8'));
 
 const endpoints = [
   {
     url: 'https://www.konduskarbus.in/api/cms_booking_engine.json',
     data: req1
-  },
-  {
-    url: 'https://www.ashokatravels.net/api/cms_booking_engine.json',
-    data: req2
   }
 ];
 
